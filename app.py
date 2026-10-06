@@ -17,7 +17,7 @@ st.set_page_config(
 # ==========================================
 
 client = Groq(
-    api_key=os.environ.get("GROQ_API_KEY")
+    api_key=os.environ.get("GROQ_API_KEY2")
 )
 
 # ==========================================
